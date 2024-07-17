@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategy/sources-of-inspiration.md",
+                "file": "about/mission-and-vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "strategy/sources-of-inspiration.md",
+                "file": "about/mission-and-vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "strategy/sources-of-inspiration.md",
+                "file": "about/mission-and-vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "strategy/sources-of-inspiration.md"
+                "file": "about/mission-and-vision.md"
               }
             }
           }
@@ -148,14 +148,20 @@
   },
   "active": "8b5c9d3012d83fd8",
   "lastOpenFiles": [
+    "about/lean-canvas.md",
+    "about/mission-and-vision.md",
+    "platform/project-sourcing.md",
+    "about/open-source.md",
+    "platform/Untitled.md",
+    "platform/fund-raising.md",
     "strategy/partnerships.md",
+    "platform",
+    "platform-features.md",
+    "strategy/digitalpublicgoods.md",
     "strategy/sources-of-inspiration.md",
     "strategy/similar-projects.md",
-    "strategy/digitalpublicgoods.md",
-    "about/mission-and-vision.md",
-    "about/lean-canvas.md",
     "strategy",
     "SUMMARY.md",
-    "initial-projects.md"
+    "platform/initial-projects.md"
   ]
 }

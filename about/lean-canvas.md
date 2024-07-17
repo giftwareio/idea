@@ -2,7 +2,7 @@
 
 ### The Problem
 
-1. **Funding Shortfall:** Many organisations doing meaningful work lack the funding to develop web/software applications that would empower them to do their best work. 
+1. **Funding Shortfall:** Many organisations doing critically important, meaningful work lack the funding to develop web/software applications that would empower them to do their best work. 
 2. **Misaligned Professional Goals:** Many web/software professionals seek opportunities to apply their skills to meaningful causes but often settle for jobs that just pay the bills. 
 3. **Resource Misallocation**: Existing talent and resources in the tech industry are underutilised for social/environmental projects.
 
