@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/mission-and-vision.md",
+                "file": "platform/technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/mission-and-vision.md",
+                "file": "platform/technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about/mission-and-vision.md",
+                "file": "platform/technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about/mission-and-vision.md"
+                "file": "platform/technology.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "8b5c9d3012d83fd8",
   "lastOpenFiles": [
-    "about/lean-canvas.md",
+    "about/meaningful-work.md",
+    "platform/technology.md",
     "about/mission-and-vision.md",
-    "platform/project-sourcing.md",
-    "about/open-source.md",
-    "platform/Untitled.md",
+    "about/lean-canvas.md",
     "platform/fund-raising.md",
+    "about/open-source.md",
+    "about/problems-worth-solving.md",
+    "platform/project-sourcing.md",
+    "platform/Untitled.md",
     "strategy/partnerships.md",
     "platform",
     "platform-features.md",
