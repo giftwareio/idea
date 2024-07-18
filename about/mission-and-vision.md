@@ -1,8 +1,6 @@
 # Mission & Vision
 
-- Open-source Software for the uplifting of the world.
-- In the spirit of the hackathon. A hackathon is more like a 100m sprint, we are in it for the long haul. 
-- 
+- Open-source Software for the uplifting of the world. 
 
 ### MISSION
 
@@ -12,3 +10,4 @@ Our mission is to design, develop, and maintain open-source software solutions t
 
 Our vision is to harness untapped resources and talent from the tech industry to drive positive change through innovative, open-source projects. We aspire to build an open, collaborative ecosystem that fosters creativity, inclusivity, and sustainability.
 
+* In the spirit of the hackathon. A hackathon is more like a 100m sprint, we are in it for the long haul.
