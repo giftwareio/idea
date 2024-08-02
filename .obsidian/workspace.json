@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f2f439bdd8ec8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about/lean-canvas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1543bb04e30ec38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUMMARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,12 +154,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,37 +171,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb1ca2de6a88c392",
+  "active": "1543bb04e30ec38b",
   "lastOpenFiles": [
+    "other/partnerships.md",
+    "about/lean-canvas.md",
+    "about/the-problem.md",
+    "SUMMARY.md",
+    "about/mission-and-vision.md",
+    "contributors/volunteers.md",
+    "contributors/corporate-sponsorship.md",
+    "contributors/contractors.md",
+    "other/sources-of-inspiration.md",
     "projects/project-maintenance.md",
     "projects/project-evaluation.md",
     "projects/project-delivery.md",
     "other/technology-stack.md",
-    "other/sources-of-inspiration.md",
     "other/reporting.md",
-    "other/partnerships.md",
     "other/outreach.md",
     "other/initial-projects.md",
-    "contributors/volunteers.md",
     "contributors/individual-donations.md",
-    "contributors/corporate-sponsorship.md",
-    "contributors/contractors.md",
     "about/problems-worth-solving.md",
     "about/open-source.md",
-    "about/mission-and-vision.md",
-    "SUMMARY.md",
     "README.md",
     "platform/Untitled.md",
     "activities/index.md",
     "projects",
-    "about/lean-canvas.md",
     "contributors",
     "outputs.md",
     "activities.md",
     "projects/project-planning.md",
     "projects/project-sourcing.md",
     "activities",
-    "about/meaningful-work.md",
     "platform",
     "other"
   ]

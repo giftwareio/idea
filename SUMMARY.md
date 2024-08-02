@@ -20,6 +20,6 @@
 * Other
 	* [Outreach](other/outreach.md)
 	* [Reporting](other/reporting.md)
-	* [Partnerships](other/partnerships.md)
+	* [Related Projects / Potential Partnerships](other/partnerships.md)
 	* [Sources of Inspiration](other/source-of-inspiration.md)
 	* [Technology Stack](other/technology-stack.md)

@@ -2,8 +2,8 @@
 
 ### The Problem
 
-1. **Funding Shortfall:** Many organisations doing critically important, meaningful work lack the funding to develop web/software applications that would empower them to do their best work. 
-2. **Misaligned Professional Goals:** Many web/software professionals seek opportunities to apply their skills to meaningful causes but often settle for jobs that just pay the bills. 
+1. **Lack of Funding for Critical Issues:** Many organisations doing critically important, meaningful work lack the funding to develop web/software applications that would empower them to do their best work. 
+2. **Lack of Meaningful Work:** Many web/software professionals seek opportunities to apply their skills to meaningful causes but often settle for jobs that just pay the bills. 
 3. **Resource Misallocation**: Existing talent and resources in the tech industry are underutilised for social/environmental projects.
 
 ### Proposed Solution
@@ -19,15 +19,16 @@
 #### Target Customers
 
 1. **Non-profit organisations and NGOs** working on projects that support the meeting of UN SDGs
-2. **Web and software development professionals** seeking meaningful work.
+2. **Web and software development professionals** or students seeking meaningful work.
 3. **Corporate partners and industry stakeholders** interested in CSR (Corporate Social Responsibility) and contributing to open-source.
+4. **Individuals** looking to donate to support the development of projects they care about
 
 #### Early Adopters:
 
- 1. **Established non-profits** with limited tech capabilities. \
-2\. **Experienced developers and designers** looking for impactful volunteer opportunities. \
-3\. **Companies with active CSR programmes** seeking to support impactful projects.\
-4\. **Laravel Community**
+1. **Established non-profits** with limited tech capabilities. \
+2. **Experienced developers and designers** looking for impactful volunteer opportunities. 
+3. **Companies with active CSR programmes** seeking to support impactful projects.\
+4. **Laravel Community**
 
 ### Unfair Advantage
 
