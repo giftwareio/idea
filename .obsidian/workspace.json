@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "other/partnerships.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "other/partnerships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "other/partnerships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "other/partnerships.md"
               }
             }
           }
@@ -173,10 +173,10 @@
   },
   "active": "1543bb04e30ec38b",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "other/partnerships.md",
     "about/lean-canvas.md",
     "about/the-problem.md",
-    "SUMMARY.md",
     "about/mission-and-vision.md",
     "contributors/volunteers.md",
     "contributors/corporate-sponsorship.md",

@@ -74,6 +74,15 @@ https://www.techforgood.nz/
 
 ---
 
+## HelpTank NZ
+
+https://helptank.nz/
+
+> Help Tank strengthens communities through supplying skilled professionals to community organisations. We know people want to use their skills for good, and we know organisations need specialist help. HelpTank connects you so, together, you make a bigger difference
+> 
+
+--- 
+
 ## Digital Impact Alliance
 
 [dial.global](https://dial.global/)
